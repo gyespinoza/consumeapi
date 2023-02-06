@@ -7,7 +7,7 @@
     </button>
     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
       <li class="nav-item">
-          <router-link to="/" class="nav-link">Home</router-link>&nbsp;
+          <router-link to="/consumeapi" class="nav-link">Home</router-link>&nbsp;
       </li>
       <li class="nav-item">
         <router-link to="/countries" class="nav-link">Countries</router-link>
